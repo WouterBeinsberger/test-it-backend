@@ -13,3 +13,8 @@ To install the python packages needed, navigate to the project root folder and u
 ```
 pip install -r requirements.txt
 ```
+
+To start the backend server use the following command:
+```
+python main.py
+```
