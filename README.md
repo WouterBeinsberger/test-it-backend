@@ -2,7 +2,7 @@
 A backend for test-it web application
 
 ## Requirements
-[python 3](https://www.python.org/downloads/) installed
+1. [python 3](https://www.python.org/downloads/) installed
 
 After installing python make sure to add python to your PATH variable.
 - on [windows](https://datatofish.com/add-python-to-windows-path/)
