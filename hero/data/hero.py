@@ -1,5 +1,5 @@
 HERO = {
-  "id": "",
+  "id": "bfecdbec-e76e-11ec-8fea-0242ac120002",
   "elementId": "heroSection",
   "content": {
     "title": {
