@@ -11,6 +11,10 @@ LIKES = {
       "value": 23415,
       "isDisplayed": True,
       "elementId": "likeCounter"
+    },
+    "button" : {
+      "isDisplayed": True,
+      "elementId": "likeButton"
     }
   }
 }
