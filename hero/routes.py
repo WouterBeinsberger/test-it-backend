@@ -1,7 +1,7 @@
 from crypt import methods
 import json
 from .hero import Hero
-from .data.hero import HERO
+from data.hero import HERO
 from flask import Blueprint, request
 
 hero_routes = Blueprint("hero", __name__)

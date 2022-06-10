@@ -1,4 +1,4 @@
-from .data.about_us import ABOUT_US
+from data.about_us import ABOUT_US
 from flask import Blueprint, request
 from .about import About
 
