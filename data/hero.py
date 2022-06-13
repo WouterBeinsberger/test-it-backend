@@ -13,7 +13,7 @@ HERO = {
       "elementId": "heroSubDescription"
     },
     "image": {
-      "value": "url",
+      "value": "https://images.pexels.com/photos/534757/pexels-photo-534757.jpeg",
       "isDisplayed": True,
       "elementId": "heroImage"
     }
