@@ -5,8 +5,10 @@ from likes.routes import likes_routes
 from contact.routes import contact_routes
 
 from flask import Flask
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 app.register_blueprint(hero_routes, url_prefix="/hero")
 app.register_blueprint(about_us_routes, url_prefix="/about-us")
