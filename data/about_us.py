@@ -21,28 +21,35 @@ ABOUT_US = {
           "id": "7980daec-e68c-11ec-8fea-0242ac120002",
           "name": "About us list item one",
           "elementId": "aboutUsItemOne",
-          "itemTitle": "lorem",
+          "itemTitle": "Code",
+          "icon": "code",
           "isDisplayed": True
+          
         },
         {
           "id": "7e1ec884-e68c-11ec-8fea-0242ac120002",
           "name": "About us list item two",
           "elementId": "aboutUsItemTwo",
-          "itemTitle": "ipsum",
+          "itemTitle": "Find bugs",
+          "icon": "bug",
           "isDisplayed": True
+          
         },
         {
           "id": "8458a8aa-e68c-11ec-8fea-0242ac120002",
           "name": "About us list item three",
           "elementId": "aboutUsItemThree",
-          "itemTitle": "dolor",
+          "itemTitle": "Test",
+          "icon": "gears",
           "isDisplayed": True
+          
         },
         {
           "id": "898fb23c-e68c-11ec-8fea-0242ac120002",
           "name": "About us list item four",
           "elementId": "aboutUsItemFour",
-          "itemTitle": "sit",
+          "itemTitle": "Pass",
+          "icon": "check",
           "isDisplayed": True
         }
       ]
