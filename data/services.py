@@ -1,7 +1,11 @@
 SERVICES = {
   "id": "3b506d6a-e8de-11ec-8fea-0242ac120002",
-  "elementId": "servicesSection",
   "content": {
+    "section": {
+      "name": "Services",
+      "elementId": "servicesSection",
+      "isDisplayed": True
+    },
     "title": {
       "value": "Services",
       "isDisplayed": True,
