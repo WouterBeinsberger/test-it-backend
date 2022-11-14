@@ -91,7 +91,7 @@ To get the likes data, create following API request
 GET /likes
 ```
 
-To edit the services data, create following API request
+To edit the likes data, create following API request
 ```
 PUT /likes
 ```
