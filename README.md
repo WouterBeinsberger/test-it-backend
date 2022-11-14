@@ -112,12 +112,12 @@ PUT /likes
   - [x] Add Get route
   - [x] Add Put route
   - [x] Add data to return
-[x] Add contact service
+- [x] Add contact service
   - [x] Add Get route
   - [x] Add Put route
   - [x] Add data to return
   - [] Refector data to return
-[x] Add likes service
+- [x] Add likes service
   - [x] Add Get route
   - [x] Add Put route
   - [x] Add data to return
