@@ -116,11 +116,11 @@ PUT /likes
   - [x] Add Get route
   - [x] Add Put route
   - [x] Add data to return
-  - [] Refector data to return
+  - [ ] Refector data to return
 - [x] Add likes service
   - [x] Add Get route
   - [x] Add Put route
   - [x] Add data to return
-  - [] Refector data to return
+  - [ ] Refector data to return
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
