@@ -16,7 +16,7 @@ After installing python make sure to add python to your PATH variable.
 
 ## Getting started
 
-### Instalation
+### Installation
 
 To install the python packages needed, navigate to the project root folder and use the following command:
 ```
