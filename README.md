@@ -84,7 +84,7 @@ To edit the contact data, create following API request
 PUT /contact
 ```
 
-### likes
+### Likes
 
 To get the likes data, create following API request
 ```
