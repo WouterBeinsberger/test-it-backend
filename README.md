@@ -12,7 +12,7 @@ After installing python make sure to add python to your PATH variable.
 - on [windows](https://datatofish.com/add-python-to-windows-path/)
 - on [mac](https://opensource.com/article/19/5/python-3-default-mac)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 ## Getting started
 
@@ -23,7 +23,7 @@ To install the python packages needed, navigate to the project root folder and u
 pip install -r requirements.txt
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 ## Usage
 
@@ -31,6 +31,8 @@ To start the backend server use the following command:
 ```
 python main.py
 ```
+
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 ## API
 
@@ -94,7 +96,7 @@ To edit the services data, create following API request
 PUT /likes
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 ## Roadmap
 - [x] Add installation file
@@ -121,4 +123,4 @@ PUT /likes
   - [x] Add data to return
   - [] Refector data to return
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
