@@ -16,6 +16,17 @@ CONTACT = {
     }
   },
   "content": {
+    "section": {
+      "name": "Conact",
+      "elementId": "ConactSection",
+      "isDisplayed": True
+    },
+    "title": {
+      "name": "Title",
+      "value": "Conact",
+      "isDisplayed": True,
+      "elementId": "ConactTitle"
+    },
     "Address": {
       "isDisplayed": True,
       "elementId": "contactAddress",
