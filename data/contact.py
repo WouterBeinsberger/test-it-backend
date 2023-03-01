@@ -18,14 +18,14 @@ CONTACT = {
   "content": {
     "section": {
       "name": "Conact",
-      "elementId": "ConactSection",
+      "elementId": "conactSection",
       "isDisplayed": True
     },
     "title": {
       "name": "Title",
       "value": "Conact",
       "isDisplayed": True,
-      "elementId": "ConactTitle"
+      "elementId": "conactTitle"
     },
     "Address": {
       "isDisplayed": True,
